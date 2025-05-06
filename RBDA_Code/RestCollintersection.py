@@ -1,6 +1,7 @@
 ##############INTERSECTION OF COLLISION AND RESTAURANT DATA #################
 
 
+
 df1= restaurantCluster[['ZIPCODE','label']].copy()
 df1.shape
 
